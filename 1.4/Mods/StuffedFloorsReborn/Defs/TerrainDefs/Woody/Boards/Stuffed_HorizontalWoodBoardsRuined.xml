@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<StuffedFloors.FloorTypeDef ParentName="StuffedFloorsWoodBasicBase">
+		<defName>Outland_HorizontalBoards_RuinedStuffed</defName>
+		<label>horizontal boards ruined</label>
+		<description>Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable.</description>
+		<texturePath>Outland/MoreFloors/Woody/HWoodBoards1Ruined</texturePath>
+		<obsoletes>
+			<li>Outland_HorizontalWoodBoards_Ruined</li>
+		</obsoletes>
+	</StuffedFloors.FloorTypeDef>
+	
+</Defs>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<StuffedFloors.FloorTypeDef ParentName="StuffedFloorsStonePrettyBase">
+		<defName>Outland_WeaveStuffed</defName>
+		<label>weave</label>
+		<description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</description>
+		<texturePath>Outland/MoreFloors/Stony/Weave</texturePath>
+		<obsoletes>
+			<li>Outland_Weave_Sandstone</li>
+			<li>Outland_Weave_Granite</li>
+			<li>Outland_Weave_Limestone</li>
+			<li>Outland_Weave_Slate</li>
+			<li>Outland_Weave_Marble</li>
+		</obsoletes>
+	</StuffedFloors.FloorTypeDef>
+
+	<StuffedFloors.FloorTypeDef ParentName="StuffedFloorsStonePrettyBase">
+		<defName>Outland_WeaveMultiStuffed</defName>
+		<label>weave multi</label>
+		<description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</description>
+		<texturePath>Outland/MoreFloors/Stony/WeaveMulti</texturePath>
+		<obsoletes>
+			<li>Outland_WeaveMulti_Sandstone</li>
+			<li>Outland_WeaveMulti_Granite</li>
+			<li>Outland_WeaveMulti_Limestone</li>
+			<li>Outland_WeaveMulti_Slate</li>
+			<li>Outland_WeaveMulti_Marble</li>
+		</obsoletes>
+	</StuffedFloors.FloorTypeDef>
+
+	<StuffedFloors.FloorTypeDef ParentName="StuffedFloorsStonePrettyBase">
+		<defName>Outland_WeaveTriangleStuffed</defName>
+		<label>weave gem</label>
+		<description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</description>
+		<texturePath>Outland/MoreFloors/Stony/WeaveTriangle</texturePath>
+		<obsoletes>
+			<li>Outland_WeaveTriangle_Sandstone</li>
+			<li>Outland_WeaveTriangle_Granite</li>
+			<li>Outland_WeaveTriangle_Limestone</li>
+			<li>Outland_WeaveTriangle_Slate</li>
+			<li>Outland_WeaveTriangle_Marble</li>
+		</obsoletes>
+	</StuffedFloors.FloorTypeDef>
+
+	<StuffedFloors.FloorTypeDef ParentName="StuffedFloorsStonePrettyBase">
+		<defName>Outland_WeaveMultiTriangleStuffed</defName>
+		<label>cracked brick road</label>
+		<description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</description>
+		<texturePath>Outland/MoreFloors/Stony/WeaveMultiTriangle</texturePath>
+		<obsoletes>
+			<li>Outland_WeaveMultiTriangle_Sandstone</li>
+			<li>Outland_WeaveMultiTriangle_Granite</li>
+			<li>Outland_WeaveMultiTriangle_Limestone</li>
+			<li>Outland_WeaveMultiTriangle_Slate</li>
+			<li>Outland_WeaveMultiTriangle_Marble</li>
+		</obsoletes>
+	</StuffedFloors.FloorTypeDef>
+
+	<StuffedFloors.FloorTypeDef ParentName="StuffedFloorsStonePrettyBase">
+		<defName>Outland_CrazyWeaveStuffed</defName>
+		<label>crazy weave</label>
+		<description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</description>
+		<texturePath>Outland/MoreFloors/Stony/CrazyWeave</texturePath>
+		<obsoletes>
+			<li>Outland_CrazyWeave_Sandstone</li>
+			<li>Outland_CrazyWeave_Granite</li>
+			<li>Outland_CrazyWeave_Limestone</li>
+			<li>Outland_CrazyWeave_Slate</li>
+			<li>Outland_CrazyWeave_Marble</li>
+		</obsoletes>
+	</StuffedFloors.FloorTypeDef>
+
+	<StuffedFloors.FloorTypeDef ParentName="StuffedFloorsStonePrettyBase">
+		<defName>Outland_CrazyWeaveMultiStuffed</defName>
+		<label>crazy weave multi</label>
+		<description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</description>
+		<texturePath>Outland/MoreFloors/Stony/CrazyWeaveMulti</texturePath>
+		<obsoletes>
+			<li>Outland_CrazyWeaveMulti_Sandstone</li>
+			<li>Outland_CrazyWeaveMulti_Granite</li>
+			<li>Outland_CrazyWeaveMulti_Limestone</li>
+			<li>Outland_CrazyWeaveMulti_Slate</li>
+			<li>Outland_CrazyWeaveMulti_Marble</li>
+		</obsoletes>
+	</StuffedFloors.FloorTypeDef>
+	
+</Defs>

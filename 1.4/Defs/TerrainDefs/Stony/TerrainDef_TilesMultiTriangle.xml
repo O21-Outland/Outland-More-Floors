@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<DesignatorDropdownGroupDef>
+		<defName>Outland_TilesMultiTriangle</defName>
+		<label>tiles multi gem</label>
+	</DesignatorDropdownGroupDef>
+
+	<TerrainDef Abstract="True" ParentName="OutlandTileStoneBase" Name="OutlandTilesMultiTriangleBase">
+		<texturePath>Outland/MoreFloors/Stony/TilesMultiTriangle</texturePath>
+		<statBases>
+			<WorkToBuild>4000</WorkToBuild>
+			<Beauty>2</Beauty>
+		</statBases>
+		<tags>
+			<li>FineFloor</li>
+		</tags>
+		<designatorDropdown>Outland_TilesMultiTriangle</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandTilesMultiTriangleBase">
+		<defName>Outland_TilesMultiTriangle_Sandstone</defName>
+		<label>sandstone tiles multi gem</label>
+		<color>(126,104,94)</color>
+		<costList>
+			<BlocksSandstone>4</BlocksSandstone>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandTilesMultiTriangleBase">
+		<defName>Outland_TilesMultiTriangle_Granite</defName>
+		<label>granite tiles multi gem</label>
+		<color>(105,95,97)</color>
+		<costList>
+			<BlocksGranite>4</BlocksGranite>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandTilesMultiTriangleBase">
+		<defName>Outland_TilesMultiTriangle_Limestone</defName>
+		<label>limestone tiles multi gem</label>
+		<color>(158,153,135)</color>
+		<costList>
+			<BlocksLimestone>4</BlocksLimestone>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandTilesMultiTriangleBase">
+		<defName>Outland_TilesMultiTriangle_Slate</defName>
+		<label>slate tiles multi gem</label>
+		<color>(100,100,100)</color>
+		<costList>
+			<BlocksSlate>4</BlocksSlate>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandTilesMultiTriangleBase">
+		<defName>Outland_TilesMultiTriangle_Marble</defName>
+		<label>marble tiles multi gem</label>
+		<color>(132,135,132)</color>
+		<costList>
+			<BlocksMarble>4</BlocksMarble>
+		</costList>
+	</TerrainDef>
+
+</Defs>

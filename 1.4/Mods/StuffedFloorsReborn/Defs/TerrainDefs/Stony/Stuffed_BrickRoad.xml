@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<StuffedFloors.FloorTypeDef ParentName="StuffedFloorsStonePrettyBase">
+		<defName>Outland_BrickRoadStuffed</defName>
+		<label>brick road</label>
+		<description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</description>
+		<texturePath>Outland/MoreFloors/Stony/BrickRoad</texturePath>
+		<obsoletes>
+			<li>Outland_BrickRoad_Sandstone</li>
+			<li>Outland_BrickRoad_Granite</li>
+			<li>Outland_BrickRoad_Limestone</li>
+			<li>Outland_BrickRoad_Slate</li>
+			<li>Outland_BrickRoad_Marble</li>
+		</obsoletes>
+	</StuffedFloors.FloorTypeDef>
+
+	<StuffedFloors.FloorTypeDef ParentName="StuffedFloorsStonePrettyBase">
+		<defName>Outland_BrickRoadCrackedStuffed</defName>
+		<label>cracked brick road</label>
+		<description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</description>
+		<texturePath>Outland/MoreFloors/Stony/BrickRoadCracked</texturePath>
+		<obsoletes>
+			<li>Outland_BrickRoadCracked_Sandstone</li>
+			<li>Outland_BrickRoadCracked_Granite</li>
+			<li>Outland_BrickRoadCracked_Limestone</li>
+			<li>Outland_BrickRoadCracked_Slate</li>
+			<li>Outland_BrickRoadCracked_Marble</li>
+		</obsoletes>
+	</StuffedFloors.FloorTypeDef>
+	
+</Defs>

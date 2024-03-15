@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<StuffedFloors.FloorTypeDef ParentName="StuffedFloorsStonePrettyBase">
+		<defName>Outland_CobblestoneStuffedStuffed</defName>
+		<label>cobblestone</label>
+		<description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</description>
+		<texturePath>Outland/MoreFloors/Stony/Cobblestone</texturePath>
+		<obsoletes>
+			<li>Outland_Cobblestone_Sandstone</li>
+			<li>Outland_Cobblestone_Granite</li>
+			<li>Outland_Cobblestone_Limestone</li>
+			<li>Outland_Cobblestone_Slate</li>
+			<li>Outland_Cobblestone_Marble</li>
+		</obsoletes>
+	</StuffedFloors.FloorTypeDef>
+	
+</Defs>

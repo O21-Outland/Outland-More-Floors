@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<StuffedFloors.FloorTypeDef ParentName="StuffedFloorsStonePrettyBase">
+		<defName>Outland_TinyTilesStuffed</defName>
+		<label>tiny tiles</label>
+		<description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</description>
+		<texturePath>Outland/MoreFloors/Stony/TinyTiles</texturePath>
+		<obsoletes>
+			<li>Outland_TinyTiles_Sandstone</li>
+			<li>Outland_TinyTiles_Granite</li>
+			<li>Outland_TinyTiles_Limestone</li>
+			<li>Outland_TinyTiles_Slate</li>
+			<li>Outland_TinyTiles_Marble</li>
+		</obsoletes>
+	</StuffedFloors.FloorTypeDef>
+
+	<StuffedFloors.FloorTypeDef ParentName="StuffedFloorsStonePrettyBase">
+		<defName>Outland_TinyTilesMultiStuffed</defName>
+		<label>tiny tiles multi</label>
+		<description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</description>
+		<texturePath>Outland/MoreFloors/Stony/TinyTilesMulti</texturePath>
+		<obsoletes>
+			<li>Outland_TinyTilesMulti_Sandstone</li>
+			<li>Outland_TinyTilesMulti_Granite</li>
+			<li>Outland_TinyTilesMulti_Limestone</li>
+			<li>Outland_TinyTilesMulti_Slate</li>
+			<li>Outland_TinyTilesMulti_Marble</li>
+		</obsoletes>
+	</StuffedFloors.FloorTypeDef>
+
+	<StuffedFloors.FloorTypeDef ParentName="StuffedFloorsStonePrettyBase">
+		<defName>Outland_SmallTilesStuffed</defName>
+		<label>small tiles</label>
+		<description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</description>
+		<texturePath>Outland/MoreFloors/Stony/SmallTiles</texturePath>
+		<obsoletes>
+			<li>Outland_SmallTiles_Sandstone</li>
+			<li>Outland_SmallTiles_Granite</li>
+			<li>Outland_SmallTiles_Limestone</li>
+			<li>Outland_SmallTiles_Slate</li>
+			<li>Outland_SmallTiles_Marble</li>
+		</obsoletes>
+	</StuffedFloors.FloorTypeDef>
+
+	<StuffedFloors.FloorTypeDef ParentName="StuffedFloorsStonePrettyBase">
+		<defName>Outland_SmallTilesMultiStuffed</defName>
+		<label>small tiles multi</label>
+		<description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</description>
+		<texturePath>Outland/MoreFloors/Stony/SmallTilesMulti</texturePath>
+		<obsoletes>
+			<li>Outland_SmallTilesMulti_Sandstone</li>
+			<li>Outland_SmallTilesMulti_Granite</li>
+			<li>Outland_SmallTilesMulti_Limestone</li>
+			<li>Outland_SmallTilesMulti_Slate</li>
+			<li>Outland_SmallTilesMulti_Marble</li>
+		</obsoletes>
+	</StuffedFloors.FloorTypeDef>
+
+	<StuffedFloors.FloorTypeDef ParentName="StuffedFloorsStonePrettyBase">
+		<defName>Outland_SmallTilesTriangleStuffed</defName>
+		<label>small tiles gem</label>
+		<description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</description>
+		<texturePath>Outland/MoreFloors/Stony/SmallTilesTriangle</texturePath>
+		<obsoletes>
+			<li>Outland_SmallTilesTriangle_Sandstone</li>
+			<li>Outland_SmallTilesTriangle_Granite</li>
+			<li>Outland_SmallTilesTriangle_Limestone</li>
+			<li>Outland_SmallTilesTriangle_Slate</li>
+			<li>Outland_SmallTilesTriangle_Marble</li>
+		</obsoletes>
+	</StuffedFloors.FloorTypeDef>
+
+	<StuffedFloors.FloorTypeDef ParentName="StuffedFloorsStonePrettyBase">
+		<defName>Outland_SmallTilesMultiTriangleStuffed</defName>
+		<label>small tiles multi gem</label>
+		<description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</description>
+		<texturePath>Outland/MoreFloors/Stony/SmallTilesMultiTriangle</texturePath>
+		<obsoletes>
+			<li>Outland_SmallTilesMultiTriangle_Sandstone</li>
+			<li>Outland_SmallTilesMultiTriangle_Granite</li>
+			<li>Outland_SmallTilesMultiTriangle_Limestone</li>
+			<li>Outland_SmallTilesMultiTriangle_Slate</li>
+			<li>Outland_SmallTilesMultiTriangle_Marble</li>
+		</obsoletes>
+	</StuffedFloors.FloorTypeDef>
+	
+</Defs>
