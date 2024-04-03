@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<DesignatorDropdownGroupDef>
+		<defName>Outland_WeaveMulti</defName>
+		<label>weave multi</label>
+	</DesignatorDropdownGroupDef>
+
+	<TerrainDef Abstract="True" ParentName="OutlandTileStoneBase" Name="OutlandWeaveMultiBase">
+		<texturePath>Outland/MoreFloors/Stony/WeaveMulti</texturePath>
+		<statBases>
+			<WorkToBuild>4000</WorkToBuild>
+			<Beauty>2</Beauty>
+		</statBases>
+		<tags>
+			<li>FineFloor</li>
+		</tags>
+		<designatorDropdown>Outland_WeaveMulti</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWeaveMultiBase">
+		<defName>Outland_WeaveMulti_Sandstone</defName>
+		<label>sandstone weave multi</label>
+		<color>(126,104,94)</color>
+		<costList>
+			<BlocksSandstone>4</BlocksSandstone>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWeaveMultiBase">
+		<defName>Outland_WeaveMulti_Granite</defName>
+		<label>granite weave multi</label>
+		<color>(105,95,97)</color>
+		<costList>
+			<BlocksGranite>4</BlocksGranite>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWeaveMultiBase">
+		<defName>Outland_WeaveMulti_Limestone</defName>
+		<label>limestone weave multi</label>
+		<color>(158,153,135)</color>
+		<costList>
+			<BlocksLimestone>4</BlocksLimestone>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWeaveMultiBase">
+		<defName>Outland_WeaveMulti_Slate</defName>
+		<label>slate weave multi</label>
+		<color>(100,100,100)</color>
+		<costList>
+			<BlocksSlate>4</BlocksSlate>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWeaveMultiBase">
+		<defName>Outland_WeaveMulti_Marble</defName>
+		<label>marble weave multi</label>
+		<color>(132,135,132)</color>
+		<costList>
+			<BlocksMarble>4</BlocksMarble>
+		</costList>
+	</TerrainDef>
+
+</Defs>

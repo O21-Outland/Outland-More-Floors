@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<DesignatorDropdownGroupDef>
+		<defName>Outland_TinyTiles</defName>
+		<label>tiny tiles</label>
+	</DesignatorDropdownGroupDef>
+
+	<TerrainDef Abstract="True" ParentName="OutlandTileStoneBase" Name="OutlandTinyTilesBase">
+		<texturePath>Outland/MoreFloors/Stony/TinyTiles</texturePath>
+		<statBases>
+			<WorkToBuild>4000</WorkToBuild>
+			<Beauty>2</Beauty>
+		</statBases>
+		<tags>
+			<li>FineFloor</li>
+		</tags>
+		<designatorDropdown>Outland_TinyTiles</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandTinyTilesBase">
+		<defName>Outland_TinyTiles_Sandstone</defName>
+		<label>sandstone tiny tiles</label>
+		<color>(126,104,94)</color>
+		<costList>
+			<BlocksSandstone>4</BlocksSandstone>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandTinyTilesBase">
+		<defName>Outland_TinyTiles_Granite</defName>
+		<label>granite tiny tiles</label>
+		<color>(105,95,97)</color>
+		<costList>
+			<BlocksGranite>4</BlocksGranite>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandTinyTilesBase">
+		<defName>Outland_TinyTiles_Limestone</defName>
+		<label>limestone tiny tiles</label>
+		<color>(158,153,135)</color>
+		<costList>
+			<BlocksLimestone>4</BlocksLimestone>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandTinyTilesBase">
+		<defName>Outland_TinyTiles_Slate</defName>
+		<label>slate tiny tiles</label>
+		<color>(100,100,100)</color>
+		<costList>
+			<BlocksSlate>4</BlocksSlate>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandTinyTilesBase">
+		<defName>Outland_TinyTiles_Marble</defName>
+		<label>marble tiny tiles</label>
+		<color>(132,135,132)</color>
+		<costList>
+			<BlocksMarble>4</BlocksMarble>
+		</costList>
+	</TerrainDef>
+
+</Defs>

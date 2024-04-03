@@ -6,6 +6,7 @@
 	<modIconPath IgnoreIfNoMatchingField="True">Outland/ModIcon</modIconPath>
 	<url></url>
 	<supportedVersions>
+		<li>1.4</li>
 		<li>1.5</li>
 	</supportedVersions>
 	<description>Adds some new terrain! Designed to fit in with the rest of the Outland series but can function totally standalone!</description>
