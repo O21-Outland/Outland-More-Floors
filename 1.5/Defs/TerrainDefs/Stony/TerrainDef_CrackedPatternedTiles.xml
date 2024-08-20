@@ -9,7 +9,6 @@
 	<TerrainDef Abstract="True" ParentName="OutlandTileStoneBase" Name="OutlandCrackedPatternedTilesBase">
 		<texturePath>Outland/MoreFloors/Stony/CrackedTilesArtistic</texturePath>
 		<statBases>
-			<WorkToBuild>1100</WorkToBuild>
 			<Beauty>1</Beauty>
 		</statBases>
 		<designatorDropdown>Outland_CrackedPatternedTiles</designatorDropdown>

@@ -9,7 +9,6 @@
 	<TerrainDef Abstract="True" ParentName="OutlandTileStoneBase" Name="OutlandCrazyWeaveBase">
 		<texturePath>Outland/MoreFloors/Stony/CrazyWeave</texturePath>
 		<statBases>
-			<WorkToBuild>4000</WorkToBuild>
 			<Beauty>2</Beauty>
 		</statBases>
 		<tags>

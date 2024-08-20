@@ -9,7 +9,6 @@
 	<TerrainDef Abstract="True" ParentName="OutlandTileStoneBase" Name="OutlandTinyTilesBase">
 		<texturePath>Outland/MoreFloors/Stony/TinyTiles</texturePath>
 		<statBases>
-			<WorkToBuild>4000</WorkToBuild>
 			<Beauty>2</Beauty>
 		</statBases>
 		<tags>

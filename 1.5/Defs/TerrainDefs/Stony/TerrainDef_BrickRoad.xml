@@ -9,7 +9,6 @@
 	<TerrainDef Abstract="True" ParentName="OutlandTileStoneBase" Name="OutlandBrickRoadBase">
 		<texturePath>Outland/MoreFloors/Stony/BrickRoad</texturePath>
 		<statBases>
-			<WorkToBuild>1100</WorkToBuild>
 			<Beauty>1</Beauty>
 		</statBases>
 		<designatorDropdown>Outland_BrickRoad</designatorDropdown>
